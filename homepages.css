@@ -1,0 +1,39 @@
+#qwerty{
+	padding-top: 2%;
+	/*background-color: #d4ee2d ;*/
+	/*background-image: background.jpeg;*/
+}
+#demo{
+	height: 70%;
+}
+.navbar{
+	height: 50px;
+/*	margin-bottom: 200000px;*/
+}
+#asd{
+	color: green;
+}
+#testt{
+	padding: 50px 0px 50px 0px;
+	text: #2d3cee;
+}
+.carousel-item {
+  height: 700px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+}
+.footer{
+	padding: 20px 0px 20px 0px ;
+	background-color: #eea32d ;
+}
+#qwerty1{
+	padding-top: 5%;
+}
+/*.card-body{
+	background-color: #a3abc2;
+}*/
